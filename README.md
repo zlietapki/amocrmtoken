@@ -20,4 +20,4 @@ Don't forget to edit url and run again
 ./get_amocrm_token_from_init.sh https://your.amocrm.ru
 ```
 
-Now `token.json` is created. That's it ready for use
+Now `token.json` is created. That's it ready for use with <https://github.com/zlietapki/amocrmlib>
